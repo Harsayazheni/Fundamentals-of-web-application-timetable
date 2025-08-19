@@ -91,7 +91,8 @@ Execute the program
 
 ```
 # OUPUT
-![OUTPUT](http://harsayazheni.student.saveetha.in/static/images/out1.png?raw=true)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/78020a54-282a-4957-9ad5-29098ea2b0c9" />
+
 
 # VALIDATOR
 ![OUTPUT](http://harsayazheni.student.saveetha.in/static/images/valid.png?raw=true)
